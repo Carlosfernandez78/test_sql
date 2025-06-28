@@ -6,7 +6,7 @@ function getTelefonos() {
 
   db.query(sql, (err, resultados) => {
     if (err) return console.error('Error al obtener teléfonos:', err.message);
-    console.log('📱 Lista de teléfonos de pacientes:');
+    console.log(' Lista de teléfonos de pacientes:');
     console.table(resultados);
   });
 }
