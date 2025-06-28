@@ -10,10 +10,10 @@ Utilizar parametros en consultas y aplicar INNER JOIN
 Organizar el codigo en módulos reutilizables
 
 ## Tecnologías utilizadas
-Node.js
-MySQL
-MySQL2
-Codigo de Visual Studio
+Node.js.
+MySQL.
+MySQL2.
+Codigo de Visual Studio.
 
 ## Cómo usar el proyecto
 
