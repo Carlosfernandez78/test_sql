@@ -7,13 +7,13 @@ Este proyecto es una practica para aplicar consultas SQL desde un entorno Node.j
 Conectar Node.js con una base de datos MySQL llamada clinica
 Crear funciones para consultar información de las tablas paciente, medico e ingreso
 Utilizar parametros en consultas y aplicar INNER JOIN
-Organizar el código en módulos reutilizables
+Organizar el codigo en módulos reutilizables
 
 ## Tecnologías utilizadas
 Node.js
 MySQL
 MySQL2
-Código de Visual Studio
+Codigo de Visual Studio
 
 ## Cómo usar el proyecto
 
